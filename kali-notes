@@ -1,0 +1,4 @@
+umask
+666-files
+777-directories
+lastlog-previous entries
