@@ -2,3 +2,8 @@ umask
 666-files
 777-directories
 lastlog-previous entries
+exporting or adding path 
+export PATH=$PATH:$HOME/scripts
+adding to front
+export PATH=$HOME/scripts:$PATH
+
